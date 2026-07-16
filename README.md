@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm John Carlo 👋
 
-<!--
-**Ulacdev/Ulacdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer passionate about building modern web applications and AI-powered solutions.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+- React
+- Next.js
+- Vue.js
+- Tailwind CSS
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+
+### Backend
+- Node.js
+- Express.js
+- FastAPI
+
+### Database
+- MySQL
+- PostgreSQL
+- Supabase
+
+### AI & APIs
+- OpenAI API
+- Claude API
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+- Figma

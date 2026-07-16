@@ -1,3 +1,24 @@
+# 👋 Hi, I'm John Carlo Aganan
+
+### Full-Stack Developer | AI Developer
+
+<p align="left">
+  <a href="https://johncarloaganan-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Ulacdev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 # 💻 Tech Stack
 
 ### Frontend
@@ -38,4 +59,19 @@
 <p>
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Antigravity-5C6BC0?style=for-the-badge" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ulacdev&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ulacdev&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  Thanks for visiting! ⭐ Feel free to check out my repositories and connect with me.
 </p>
